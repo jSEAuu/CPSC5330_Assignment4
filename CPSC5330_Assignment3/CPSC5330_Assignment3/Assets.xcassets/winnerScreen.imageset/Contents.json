@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pixel-art-8-bit-you-win-one-big-winner-golden-cup-vector-33826570.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pixel-art-8-bit-you-win-one-big-winner-golden-cup-vector-33826570@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pixel-art-8-bit-you-win-one-big-winner-golden-cup-vector-33826570@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
